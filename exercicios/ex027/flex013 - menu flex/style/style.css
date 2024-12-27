@@ -27,6 +27,7 @@ header {
 
 header > h1 {
     flex: 0 0 200px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.596);
 }
 
 header > nav {
@@ -54,8 +55,10 @@ header > nav > a:hover {
 
 main {
     background-color: white;
-    margin: 10px;
+    margin: auto;
     padding: 10px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.61);
+    width: 570px;
 }
+
